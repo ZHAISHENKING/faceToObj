@@ -9,8 +9,9 @@ python面向对象
 ├── README.md
 ├── class.py    # 静态方法、类方法
 ├── cp.py  		# 深浅拷贝
-└── decorate.py # 装饰器 
-└── strsort.py  # 字符串反转  
+├── decorate.py # 装饰器 
+├── strsort.py  # 字符串反转  
+└── api.py      # 筛选功能的api请求
 
 ```
 
